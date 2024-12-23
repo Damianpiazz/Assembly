@@ -1,2 +1,4 @@
 # Assembly
-Paradigma imperativo
+
+## Emulador
+emu8086
