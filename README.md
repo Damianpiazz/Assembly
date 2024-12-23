@@ -1,0 +1,2 @@
+# Assembly
+Paradigma imperativo
